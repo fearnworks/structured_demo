@@ -4,3 +4,9 @@ accelerate
 sentencepiece
 bitsandbytes
 vllm
+torch
+ipykernel
+ipywidgets
+openai
+pydantic
+loguru
