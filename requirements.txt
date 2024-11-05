@@ -1,0 +1,6 @@
+outlines
+transformers
+accelerate
+sentencepiece
+bitsandbytes
+vllm
